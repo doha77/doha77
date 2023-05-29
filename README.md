@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**doha77/doha77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+I'm a data scientist from France
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**About me**
+
+- 💼 Currently Data Analyst at [Eurel Informatica](https://www.eurel.it/home)
+
+- 📈 I enjoy building machine learning and deep learning models
+
+- ❤️ I love writing Python, and building fun experiments
+
+
+<p align="left"> 
+    <img src="https://skillicons.dev/icons?i=git,docker,python,tensorflow,r,linux" />
+  </a>
+
+</p>
+
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=doha77&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="doha's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doha77&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
